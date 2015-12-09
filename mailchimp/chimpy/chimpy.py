@@ -1,7 +1,7 @@
 import urllib
 import urllib2
 import pprint
-import simplejson
+import json as simplejson
 from utils import transform_datetime
 from utils import flatten
 from warnings import warn
